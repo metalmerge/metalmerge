@@ -7,5 +7,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=metalmerge&show_icons=true&locale=en&theme=dark" alt="metalmerge" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=metalmerge&show_icons=true&locale=en&theme=dark" alt="metalmerge" /></p>
-- 🔭 I’m currently working on a python automation project
-- ⚡ Fun fact: I originally wanted to become a historian
+<p>
+<center>🔭 I’m currently working on a python automation project</center>
+<center>⚡ Fun fact: I originally wanted to become a historian</center>
+</p>-
