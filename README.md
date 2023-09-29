@@ -10,4 +10,4 @@
 <p align="center">
 🔭 I’m currently working on a python automation project
 ⚡ Fun fact: I originally wanted to become a historian
-</p>-
+</p>
