@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=metalmerge&show_icons=true&locale=en&theme=dark" alt="metalmerge" />
+<p><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=metalmerge&show_icons=true&locale=en&theme=dark" alt="metalmerge" />
 
 &nbsp;<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=metalmerge&show_icons=true&locale=en&theme=dark" alt="metalmerge" />
 
