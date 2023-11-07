@@ -26,4 +26,4 @@ If you would like to get in touch with me, feel free to contact me via email at 
 
 Thank you for visiting my GitHub profile. Happy Coding!
 
-<img align="middle" src="https://giphy.com/embed/13HgwGsXF0aiGY" />
+![The IT Crowd Animation](IT_Crowd.gif)
