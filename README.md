@@ -26,4 +26,4 @@ If you would like to get in touch with me, feel free to contact me via email at 
 
 Thank you for visiting my GitHub profile. Happy Coding!
 
-![Giphy Animation](https://giphy.com/embed/13HgwGsXF0aiGY)
+<img align="middle" src="https://giphy.com/embed/13HgwGsXF0aiGY" />
