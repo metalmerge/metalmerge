@@ -1,6 +1,29 @@
-<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=metalmerge&show_icons=true&locale=en&theme=dark" alt="metalmerge" />
+# Welcome to My GitHub Profile
 
-&nbsp;<img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=metalmerge&show_icons=true&locale=en&theme=dark" alt="metalmerge" />
+Hello, I'm Dimitry Ermakov but I go by Dima.
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=metalmerge&theme=darkhub&margin-w=10&no-bg=true&column=-1" alt="metalmerge"/></a></p>
+## About Me
 
+I'm a passionate developer with a strong interest in robotics and automation.
+
+## GitHub Stats
+
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=metalmerge&show_icons=true&locale=en&theme=dark)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=metalmerge&show_icons=true&locale=en&theme=dark)
+![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=metalmerge&theme=darkhub&margin-w=10&no-bg=true&column=-1)
+
+## My Projects
+
+Here are some of the projects I have or am working on:
+
+- [Student Database](https://github.com/metalmerge/student-profiles)
+- [Pulsar Candiate Finder](https://github.com/metalmerge/PULSAR)
+- [Solar Panel AI Model](https://github.com/metalmerge/SPECTRA)
+
+## Contact Me
+
+If you would like to get in touch with me, feel free to contact me via email at <ermakovd06@gmail.com>.
+
+Thank you for visiting my GitHub profile. Happy Coding!
+
+<iframe src="https://giphy.com/embed/13HgwGsXF0aiGY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/13HgwGsXF0aiGY">via GIPHY</a></p>
