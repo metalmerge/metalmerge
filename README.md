@@ -1,10 +1,10 @@
 # Welcome to My GitHub Profile
 
-Hello, I'm Dimitry Ermakov but I go by Dima.
+Hello, I'm Dimitry Ermakov but my nickname is Dima.
 
 ## About Me
 
-I'm a passionate developer with a strong interest in robotics and automation.
+I'm a passionate developer with a fervent interest in robotics and automation.
 
 ## GitHub Stats
 
