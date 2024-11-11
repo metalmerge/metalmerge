@@ -4,7 +4,7 @@ Hello, I'm Dimitry Ermakov but my nickname is Dima.
 
 ## About Me
 
-I'm a developer who enjoys tinkering with code to automate repetitive tasks.
+I'm a developer who enjoys tinkering with code to automate repetitive tasks. My interests in academics and life are tech, math, statsitics, finance, investment, com sci, and coding. 
 
 ## GitHub Stats
 
